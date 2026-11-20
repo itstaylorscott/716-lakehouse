@@ -1,11 +1,11 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="pipeline/logo.png">
-    <img src="pipeline/logo-dark-text.png" alt="716 Vacation Homes" width="420">
+    <img src="pipeline/logo-dark-text.png" alt="716 Vacation Rentals" width="420">
   </picture>
 </p>
 
-# 716 Vacation Homes: Marketing & New Client Acquisition
+# 716 Vacation Rentals: Marketing & New Client Acquisition
 
 Home-screen launcher for the 716 owner-acquisition app. Engineered by Lynx Designs.
 
